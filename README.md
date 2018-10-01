@@ -1,6 +1,6 @@
 ## wm
 
-   pretty much wmutils
+   pretty much swm
 
    no borders
    
