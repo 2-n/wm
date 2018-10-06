@@ -248,7 +248,7 @@ main(void)
     atexit(cleanexit);
 
     if (!start()) {
-        errx(EXIT_FAILURE, "Couldn't connect to X :c");
+        errx(EXIT_FAILURE, "couldnt connect to x :c");
     }
 
     loop();
